@@ -58,7 +58,12 @@ pour l'utiliser dans un projet , il faut taper la commande suivante pour l'insta
   
        gatsby new [<site-name> [<starter-url>]]
        
+   après il faut acceder le projet pour apporter des modifications à partir de la commande suivante:
    
+        cd nom_du_site 
+        
+       ensuite , on tape la commande suivante :
+       gatsby developper
   
   
   
